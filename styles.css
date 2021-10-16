@@ -30,3 +30,16 @@ img {
     font-family: sans-serif;
     color: #171a1b;
 }
+
+.two-columns {
+    text-align: center;
+    font-size: 0;
+}
+
+.two-columns .column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
