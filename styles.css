@@ -43,3 +43,10 @@ img {
     vertical-align: top;
     text-align: center;
 }
+
+.three-columns {
+    text-align: center;
+    font-size: 0;
+    padding: 15px 0 25px;
+}
+
